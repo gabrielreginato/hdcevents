@@ -1,0 +1,11 @@
+* {
+    font-family: 'Roboto';
+}
+
+p {
+    color: red;
+}
+
+#navbar img {
+    width: 100px;
+}
